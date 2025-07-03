@@ -1,1 +1,1 @@
-# Batchs collecting!
+# Batchs
